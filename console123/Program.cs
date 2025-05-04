@@ -1,6 +1,4 @@
 ﻿using console123;
-using System;
-using System.Security.Cryptography;
 
 public class Programm
 {
@@ -127,7 +125,7 @@ public class Programm
         //}
 
 
-        Console.WriteLine("hashbasd");
+        //Console.WriteLine("hashbasd");
         // sxva klasis gamodzaxeba
         //Animal fox = new Animal();
         //fox.CreateAnimal("fox", 5);
@@ -139,7 +137,14 @@ public class Programm
         //player.CreateAnimal("dog", 2);
         //player.GetAnimalInfo();
 
-        Console.ReadLine();
+
+        /// GETTER AND SETTER BASED ON PLAYER CLASS
+        //Player player = new Player();
+
+        //player.Name = "Giorgi";
+        //Console.WriteLine(player.Name);
+
+        //Console.ReadLine();
 
 
 
