@@ -1,4 +1,6 @@
-﻿using System;
+﻿using console123;
+using System;
+using System.Security.Cryptography;
 
 public class Programm
 {
@@ -117,10 +119,28 @@ public class Programm
         /////////////////////////////////////////
         ///
 
+        // RETURN 
+        //SomeFunc(2);
+        //void SomeFunc(int number)
+        //{
+        //    if (number == 5) return;
+        //}
 
 
+        Console.WriteLine("hashbasd");
+        // sxva klasis gamodzaxeba
+        //Animal fox = new Animal();
+        //fox.CreateAnimal("fox", 5);
+        //Console.ReadLine();
+        //fox.GetAnimalInfo();
 
-        Console.ReadLine(); 
+        // Chasheneba 1 clasisa meoreShi
+        //Player player = new Player();
+        //player.CreateAnimal("dog", 2);
+        //player.GetAnimalInfo();
+
+        Console.ReadLine();
+
 
 
     }
