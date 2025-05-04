@@ -1,6 +1,4 @@
-﻿using console123;
-
-public class Programm
+﻿public class Programm
 {
     public static void Main(String[] args)
     {
@@ -144,9 +142,33 @@ public class Programm
         //player.Name = "Giorgi";
         //Console.WriteLine(player.Name);
 
-        //Console.ReadLine();
+
+        //    Animal animal = new Animal();
+        //    animal.PrintAnimal();
 
 
+
+        //    Console.ReadLine();
+        //}
+
+        //public class Animal
+        //{
+        //    public void PrintAnimal()
+        //    {
+        //        Console.WriteLine("this is animal ELEPHANT BEACHHHHHHHH!!!!!!!!!!>>>>>>");
+        //    }
+        //}
+
+        var myName = "Luka";
+        var myPhoneNumber = "+995598490103";
+        var myAge = 22;
+
+        Console.WriteLine(myName);
+        Console.WriteLine(myPhoneNumber);
+        Console.WriteLine(myAge);
+
+
+        Console.ReadLine();
 
     }
 }
